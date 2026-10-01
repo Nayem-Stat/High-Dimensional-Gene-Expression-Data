@@ -1,4 +1,4 @@
-# Obesity Prediction from High-Dimensional Gene Expression Data
+# High-Dimensional Gene Expression Data
 
 ## Overview
 
